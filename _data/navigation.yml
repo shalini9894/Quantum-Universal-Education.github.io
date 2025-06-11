@@ -25,3 +25,5 @@ main:
   #  url: /about/
   - title: "About us"
     url: /about-us/
+  - title: "Quantum Initiatives"
+    url: /quantum-initiatives/ 
